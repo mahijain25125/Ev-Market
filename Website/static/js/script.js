@@ -1,0 +1,1 @@
+console.log("EV Market Insights Dashboard Web Portal Initialized.");

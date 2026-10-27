@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EV Market Performance & Insights</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Electric Vehicle Market Performance & Insights</h1>
+        <p>Market Trends, Battery Tech Adoption & Customer Satisfaction Analysis</p>
+    </header>
+    <div class="container">
+        <div class="kpi-grid">
+            <div class="card">
+                <h3>Total Models Analyzed</h3>
+                <p>{{ total_models }}</p>
+            </div>
+            <div class="card">
+                <h3>Total Annual Sales (Units)</h3>
+                <p>{{ "{:,}".format(total_sales) }}</p>
+            </div>
+            <div class="card">
+                <h3>Average Driving Range</h3>
+                <p>{{ avg_range }} km</p>
+            </div>
+        </div>
+        <div class="tableau-section">
+            <h2>Interactive Tableau Dashboard</h2>
+            <p>Embedded Tableau Public visualization dashboard will display here.</p>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

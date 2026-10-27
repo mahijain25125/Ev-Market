@@ -1,0 +1,501 @@
+Vehicle_ID,Manufacturer,Category,Battery_Technology,Driving_Range_km,Battery_Capacity_kWh,Charging_Speed_kW,Price_USD,Annual_Sales_Units,Customer_Rating,Manufacturing_Country,CO2_Emissions_Saved_Tons,Lifespan_Years
+EV-1000,Ford,Truck,Nickel Manganese Cobalt (NMC),650,76,194,44516,41197,4.6,South Korea,29,14
+EV-1001,Hyundai,Truck,Lithium Iron Phosphate (LFP),222,63,90,71526,38615,3.1,USA,45,11
+EV-1002,BMW,Hatchback,Sodium-Ion,445,94,108,25449,7769,4.6,China,35,8
+EV-1003,Ford,SUV,Sodium-Ion,166,84,122,65290,28564,3.4,China,25,9
+EV-1004,Volkswagen,Sedan,Solid-State,366,119,29,101661,14027,4.0,Japan,24,7
+EV-1005,NIO,Hatchback,Nickel Manganese Cobalt (NMC),210,72,221,87954,2954,4.6,Japan,43,8
+EV-1006,BMW,Sedan,Solid-State,191,103,108,37746,21378,3.5,India,26,8
+EV-1007,BMW,Two-wheeler,Nickel Manganese Cobalt (NMC),174,59,64,82990,13491,3.5,Norway,8,7
+EV-1008,Ford,Sedan,Solid-State,188,111,130,73810,3308,3.8,China,17,14
+EV-1009,BYD,SUV,Nickel Cobalt Aluminum (NCA),280,46,173,98297,39910,4.8,South Korea,49,9
+EV-1010,Volkswagen,Two-wheeler,Nickel Cobalt Aluminum (NCA),647,55,38,30223,37093,3.0,USA,46,9
+EV-1011,Ford,Sedan,Nickel Cobalt Aluminum (NCA),378,37,154,87237,36804,4.8,Germany,24,11
+EV-1012,Volkswagen,Two-wheeler,Nickel Cobalt Aluminum (NCA),257,76,169,17597,30886,3.3,Japan,17,8
+EV-1013,Volkswagen,Sedan,Lithium Iron Phosphate (LFP),321,105,298,80677,48577,5.0,Germany,21,8
+EV-1014,NIO,SUV,Nickel Cobalt Aluminum (NCA),584,101,253,17659,4302,4.9,South Korea,40,13
+EV-1015,BMW,Sedan,Sodium-Ion,627,118,335,101516,29253,4.0,Japan,37,10
+EV-1016,Hyundai,Sedan,Sodium-Ion,251,75,249,89567,21583,4.0,Germany,5,8
+EV-1017,NIO,Sedan,Lithium Iron Phosphate (LFP),673,97,160,30037,18854,4.0,Norway,19,6
+EV-1018,NIO,Hatchback,Nickel Cobalt Aluminum (NCA),424,62,232,61738,22690,4.3,South Korea,17,10
+EV-1019,Volkswagen,Hatchback,Nickel Cobalt Aluminum (NCA),193,30,49,118965,6642,3.2,USA,21,6
+EV-1020,Nissan,Hatchback,Nickel Cobalt Aluminum (NCA),166,48,72,86678,28898,3.1,Norway,28,9
+EV-1021,BMW,SUV,Solid-State,479,60,282,27109,42362,3.1,South Korea,12,10
+EV-1022,BYD,Two-wheeler,Nickel Manganese Cobalt (NMC),646,109,282,37010,33632,3.9,India,31,8
+EV-1023,NIO,Truck,Solid-State,161,43,29,23787,20003,3.6,Japan,49,7
+EV-1024,Hyundai,Sedan,Nickel Manganese Cobalt (NMC),467,82,341,23472,48956,4.2,China,27,11
+EV-1025,Nissan,Sedan,Nickel Cobalt Aluminum (NCA),365,77,159,38383,35131,5.0,USA,12,6
+EV-1026,Nissan,SUV,Nickel Cobalt Aluminum (NCA),488,98,59,76709,16999,3.8,Norway,12,10
+EV-1027,BYD,Sedan,Solid-State,230,119,132,84785,40352,4.1,Norway,30,8
+EV-1028,NIO,Hatchback,Solid-State,634,91,241,49518,8516,3.8,Germany,17,10
+EV-1029,Hyundai,Truck,Nickel Manganese Cobalt (NMC),523,95,244,68909,2884,4.7,Japan,43,8
+EV-1030,BMW,Electric Bus,Sodium-Ion,349,93,157,33351,15572,4.8,China,41,8
+EV-1031,Tesla,Sedan,Nickel Manganese Cobalt (NMC),686,99,277,84624,37203,4.8,South Korea,32,8
+EV-1032,Hyundai,Hatchback,Solid-State,615,92,70,68330,46395,4.9,China,29,13
+EV-1033,BYD,Electric Bus,Solid-State,238,102,313,30282,14982,3.1,Japan,20,11
+EV-1034,Nissan,Truck,Lithium Iron Phosphate (LFP),417,62,345,99866,41010,4.7,Japan,6,7
+EV-1035,BMW,Electric Bus,Solid-State,638,70,99,36778,49433,4.5,India,22,7
+EV-1036,Hyundai,Hatchback,Lithium Iron Phosphate (LFP),687,118,126,39264,22326,3.5,India,21,10
+EV-1037,Tesla,Two-wheeler,Sodium-Ion,196,77,190,74675,2990,4.9,China,34,10
+EV-1038,Tesla,Two-wheeler,Nickel Manganese Cobalt (NMC),437,42,238,20075,46592,3.3,South Korea,43,8
+EV-1039,Volkswagen,Electric Bus,Nickel Manganese Cobalt (NMC),165,102,140,90948,26018,4.4,China,17,13
+EV-1040,Volkswagen,SUV,Lithium Iron Phosphate (LFP),550,106,211,63454,24545,3.4,Japan,36,8
+EV-1041,Ford,Electric Bus,Nickel Manganese Cobalt (NMC),235,60,276,43365,27410,3.9,Japan,33,13
+EV-1042,BYD,Sedan,Solid-State,399,104,287,87766,25066,4.4,Germany,34,8
+EV-1043,NIO,Sedan,Nickel Cobalt Aluminum (NCA),540,97,170,63200,34405,4.1,India,22,6
+EV-1044,Hyundai,Two-wheeler,Lithium Iron Phosphate (LFP),484,33,185,26002,27603,3.9,Germany,17,6
+EV-1045,Hyundai,SUV,Nickel Manganese Cobalt (NMC),668,48,161,28947,36688,3.7,USA,47,9
+EV-1046,NIO,Hatchback,Lithium Iron Phosphate (LFP),286,99,279,94222,6345,4.7,Japan,25,8
+EV-1047,Ford,Sedan,Lithium Iron Phosphate (LFP),647,111,290,109840,21662,3.3,Germany,34,11
+EV-1048,Nissan,Two-wheeler,Nickel Cobalt Aluminum (NCA),626,42,202,93610,37174,3.9,China,25,9
+EV-1049,Nissan,Truck,Solid-State,372,52,181,67142,19837,4.8,India,21,10
+EV-1050,Ford,Two-wheeler,Lithium Iron Phosphate (LFP),521,112,309,71307,22813,4.7,India,44,14
+EV-1051,Nissan,Sedan,Nickel Manganese Cobalt (NMC),551,104,309,19493,27443,3.8,South Korea,23,8
+EV-1052,Volkswagen,Sedan,Sodium-Ion,592,30,247,65085,12913,4.5,China,19,6
+EV-1053,Hyundai,Two-wheeler,Lithium Iron Phosphate (LFP),639,117,32,49228,776,4.6,South Korea,13,14
+EV-1054,Ford,Hatchback,Lithium Iron Phosphate (LFP),422,83,31,94676,18111,4.8,Germany,14,13
+EV-1055,Hyundai,Electric Bus,Nickel Cobalt Aluminum (NCA),675,100,292,66875,39605,4.1,Norway,48,14
+EV-1056,NIO,Sedan,Solid-State,308,118,294,46655,12444,3.4,USA,35,11
+EV-1057,Tesla,Two-wheeler,Sodium-Ion,301,114,204,58472,16406,3.5,China,27,8
+EV-1058,Volkswagen,Two-wheeler,Nickel Manganese Cobalt (NMC),337,44,174,64437,21036,3.6,China,34,7
+EV-1059,BMW,SUV,Sodium-Ion,247,94,336,64416,28310,4.2,China,37,14
+EV-1060,Volkswagen,Electric Bus,Nickel Manganese Cobalt (NMC),280,105,145,74711,12806,3.1,South Korea,13,7
+EV-1061,Ford,Truck,Solid-State,320,100,135,21816,11003,4.3,Germany,5,13
+EV-1062,BMW,Hatchback,Nickel Manganese Cobalt (NMC),332,44,299,92175,19725,3.7,China,48,9
+EV-1063,Tesla,Truck,Nickel Cobalt Aluminum (NCA),513,50,234,79307,37476,3.6,Norway,39,7
+EV-1064,Ford,Electric Bus,Nickel Cobalt Aluminum (NCA),188,48,193,61733,12090,4.8,China,15,9
+EV-1065,BYD,Electric Bus,Nickel Cobalt Aluminum (NCA),676,89,309,110028,11386,3.9,India,38,6
+EV-1066,Hyundai,Electric Bus,Nickel Cobalt Aluminum (NCA),646,118,195,26240,13366,3.2,USA,20,8
+EV-1067,Tesla,Truck,Sodium-Ion,665,62,134,113234,1588,4.7,India,13,14
+EV-1068,Hyundai,Electric Bus,Solid-State,498,78,143,107493,3863,3.1,India,36,6
+EV-1069,Nissan,Two-wheeler,Nickel Manganese Cobalt (NMC),546,64,53,113344,33292,4.5,USA,19,6
+EV-1070,BYD,Truck,Nickel Manganese Cobalt (NMC),310,73,243,86363,10264,4.5,Norway,16,12
+EV-1071,BYD,Electric Bus,Nickel Cobalt Aluminum (NCA),165,119,140,47762,21120,3.7,Germany,37,5
+EV-1072,Tesla,Two-wheeler,Nickel Cobalt Aluminum (NCA),642,40,60,23259,43227,4.6,India,49,11
+EV-1073,BYD,SUV,Lithium Iron Phosphate (LFP),575,101,289,65139,13435,4.0,Germany,18,9
+EV-1074,BMW,Electric Bus,Solid-State,257,107,254,29849,8568,3.9,India,12,12
+EV-1075,BYD,Truck,Sodium-Ion,599,103,39,96768,7795,3.1,Japan,12,5
+EV-1076,Hyundai,Sedan,Nickel Manganese Cobalt (NMC),460,95,170,104709,41660,3.6,USA,31,11
+EV-1077,Hyundai,Electric Bus,Lithium Iron Phosphate (LFP),319,75,170,69869,11890,4.9,India,16,9
+EV-1078,Ford,Sedan,Lithium Iron Phosphate (LFP),695,38,147,78095,41716,3.8,Japan,5,8
+EV-1079,Hyundai,Two-wheeler,Nickel Manganese Cobalt (NMC),563,32,323,85910,20631,4.1,South Korea,47,11
+EV-1080,Ford,SUV,Sodium-Ion,400,114,259,101710,29718,4.1,Japan,44,14
+EV-1081,Hyundai,Hatchback,Lithium Iron Phosphate (LFP),290,55,156,38567,10933,4.2,China,46,6
+EV-1082,BMW,SUV,Lithium Iron Phosphate (LFP),423,101,172,50292,15538,3.1,India,15,5
+EV-1083,NIO,Electric Bus,Solid-State,565,77,257,89813,28682,3.7,Japan,43,5
+EV-1084,Ford,Sedan,Sodium-Ion,188,95,245,112136,12028,4.4,Germany,47,5
+EV-1085,Volkswagen,Sedan,Lithium Iron Phosphate (LFP),178,99,224,66631,21781,3.4,South Korea,35,9
+EV-1086,Nissan,Truck,Sodium-Ion,626,57,277,24885,49011,3.4,Norway,21,14
+EV-1087,Tesla,Sedan,Nickel Manganese Cobalt (NMC),467,55,107,74659,9105,3.0,India,37,11
+EV-1088,Hyundai,Truck,Nickel Cobalt Aluminum (NCA),394,54,171,69306,35282,3.9,China,36,6
+EV-1089,BYD,Two-wheeler,Lithium Iron Phosphate (LFP),421,41,256,81314,1881,4.8,Norway,33,14
+EV-1090,NIO,Hatchback,Solid-State,589,34,43,80087,1598,3.1,Japan,25,12
+EV-1091,Hyundai,Electric Bus,Nickel Manganese Cobalt (NMC),388,77,306,44165,20310,3.4,Norway,25,8
+EV-1092,BYD,Truck,Sodium-Ion,526,66,290,73929,24822,3.6,Norway,44,7
+EV-1093,Nissan,Hatchback,Nickel Manganese Cobalt (NMC),415,108,279,82028,42369,4.5,South Korea,27,14
+EV-1094,Nissan,Sedan,Lithium Iron Phosphate (LFP),508,73,50,110998,33455,4.3,Norway,10,12
+EV-1095,Nissan,Sedan,Sodium-Ion,489,44,234,64812,45216,3.8,Norway,26,6
+EV-1096,BYD,Hatchback,Nickel Cobalt Aluminum (NCA),538,72,304,65500,10707,4.5,India,42,7
+EV-1097,Hyundai,Sedan,Nickel Manganese Cobalt (NMC),152,77,71,94151,22293,4.2,South Korea,41,7
+EV-1098,Nissan,Two-wheeler,Lithium Iron Phosphate (LFP),578,116,116,73643,2592,4.8,China,49,14
+EV-1099,BMW,Two-wheeler,Solid-State,291,99,109,59900,28720,4.6,Japan,12,5
+EV-1100,Ford,Hatchback,Sodium-Ion,525,75,65,57946,19014,3.5,South Korea,45,10
+EV-1101,BYD,Truck,Nickel Manganese Cobalt (NMC),473,72,299,22851,38510,3.5,South Korea,39,6
+EV-1102,BYD,Truck,Nickel Manganese Cobalt (NMC),295,50,192,31288,9049,3.3,USA,15,5
+EV-1103,Hyundai,Hatchback,Nickel Cobalt Aluminum (NCA),442,52,210,87692,22531,3.7,South Korea,28,6
+EV-1104,BYD,Truck,Nickel Cobalt Aluminum (NCA),581,109,205,82580,5685,5.0,USA,25,10
+EV-1105,BYD,Truck,Solid-State,548,76,24,22368,15771,3.8,Japan,6,8
+EV-1106,Nissan,Two-wheeler,Solid-State,493,44,212,100436,6276,3.4,Norway,44,10
+EV-1107,Hyundai,Truck,Lithium Iron Phosphate (LFP),289,54,139,111136,12949,4.5,India,23,13
+EV-1108,Nissan,SUV,Lithium Iron Phosphate (LFP),336,65,40,61403,24797,4.1,India,43,14
+EV-1109,Ford,Electric Bus,Solid-State,210,104,44,106170,41091,3.3,Japan,32,14
+EV-1110,NIO,Sedan,Solid-State,529,80,51,24168,16217,3.8,Japan,21,12
+EV-1111,Ford,SUV,Sodium-Ion,589,44,316,101497,40623,3.8,Germany,10,5
+EV-1112,NIO,Truck,Nickel Cobalt Aluminum (NCA),468,97,129,64879,39733,4.5,Norway,23,12
+EV-1113,Nissan,Two-wheeler,Lithium Iron Phosphate (LFP),451,50,302,74871,46005,3.0,Japan,42,13
+EV-1114,Ford,Hatchback,Nickel Cobalt Aluminum (NCA),493,42,149,104388,46592,3.5,South Korea,32,10
+EV-1115,Hyundai,Truck,Nickel Cobalt Aluminum (NCA),160,115,250,113646,10850,4.0,India,6,14
+EV-1116,Tesla,Two-wheeler,Solid-State,211,48,132,47174,31122,3.5,China,42,9
+EV-1117,Nissan,Electric Bus,Sodium-Ion,375,63,157,114751,35823,4.3,India,41,10
+EV-1118,NIO,Truck,Nickel Manganese Cobalt (NMC),302,107,207,107491,3451,4.0,USA,8,10
+EV-1119,BMW,Hatchback,Sodium-Ion,459,97,165,21581,18122,3.7,India,26,13
+EV-1120,NIO,Two-wheeler,Sodium-Ion,392,81,93,86853,5227,4.9,Germany,30,8
+EV-1121,BMW,Two-wheeler,Nickel Cobalt Aluminum (NCA),642,56,150,79046,38954,4.3,Norway,47,6
+EV-1122,BYD,Two-wheeler,Sodium-Ion,515,58,282,64678,36969,3.3,Japan,40,13
+EV-1123,Ford,Electric Bus,Lithium Iron Phosphate (LFP),479,57,24,41649,36048,4.1,Norway,17,6
+EV-1124,BMW,Truck,Nickel Cobalt Aluminum (NCA),256,64,125,103668,24282,4.6,Japan,36,14
+EV-1125,NIO,Electric Bus,Lithium Iron Phosphate (LFP),375,37,245,97325,28954,4.4,India,21,13
+EV-1126,BYD,Sedan,Nickel Manganese Cobalt (NMC),367,45,341,29567,2868,3.3,China,45,6
+EV-1127,Tesla,Sedan,Nickel Cobalt Aluminum (NCA),655,65,31,95404,16092,4.9,China,40,12
+EV-1128,Hyundai,Truck,Nickel Manganese Cobalt (NMC),408,59,323,104906,22673,3.9,Germany,23,13
+EV-1129,Hyundai,Electric Bus,Nickel Cobalt Aluminum (NCA),666,47,252,111019,33704,3.3,USA,39,14
+EV-1130,Hyundai,Hatchback,Solid-State,203,31,240,76944,36096,3.4,India,44,13
+EV-1131,BMW,Two-wheeler,Sodium-Ion,196,78,87,93002,34824,3.2,Japan,32,14
+EV-1132,Tesla,Two-wheeler,Solid-State,670,106,133,43803,46632,4.6,India,5,13
+EV-1133,BMW,Truck,Nickel Manganese Cobalt (NMC),248,33,34,33230,24364,3.2,Germany,46,6
+EV-1134,Ford,Sedan,Sodium-Ion,169,119,107,32862,48329,3.3,South Korea,22,8
+EV-1135,BMW,Sedan,Nickel Cobalt Aluminum (NCA),639,118,255,58355,31250,4.7,South Korea,44,11
+EV-1136,Tesla,Two-wheeler,Sodium-Ion,568,104,111,46259,11076,3.7,Germany,37,6
+EV-1137,Tesla,Truck,Lithium Iron Phosphate (LFP),211,36,335,114075,17066,3.1,Japan,16,5
+EV-1138,Ford,Electric Bus,Sodium-Ion,294,103,75,102445,7690,3.1,Norway,12,7
+EV-1139,Tesla,Sedan,Lithium Iron Phosphate (LFP),365,68,33,45795,23571,3.3,Germany,28,8
+EV-1140,NIO,Electric Bus,Sodium-Ion,152,42,230,23770,38833,3.4,Japan,20,12
+EV-1141,Tesla,Sedan,Lithium Iron Phosphate (LFP),309,60,35,26093,15869,4.3,China,8,10
+EV-1142,Hyundai,Sedan,Nickel Manganese Cobalt (NMC),269,100,142,61571,24535,3.3,Germany,42,6
+EV-1143,NIO,SUV,Solid-State,238,92,41,15193,2089,3.2,Japan,48,13
+EV-1144,NIO,Sedan,Nickel Cobalt Aluminum (NCA),478,85,96,115311,25735,4.5,Germany,31,6
+EV-1145,Ford,Hatchback,Sodium-Ion,506,71,264,32569,659,4.3,Germany,13,9
+EV-1146,Volkswagen,Truck,Solid-State,416,90,244,26190,12645,3.9,Norway,20,8
+EV-1147,Volkswagen,Truck,Nickel Cobalt Aluminum (NCA),472,71,91,77824,15873,4.1,Norway,16,11
+EV-1148,Tesla,Electric Bus,Nickel Cobalt Aluminum (NCA),690,85,333,57752,32421,3.6,Japan,35,12
+EV-1149,NIO,Sedan,Lithium Iron Phosphate (LFP),344,65,232,47327,39823,4.0,Japan,28,9
+EV-1150,Volkswagen,Hatchback,Nickel Manganese Cobalt (NMC),481,113,122,57070,16737,4.0,USA,18,14
+EV-1151,Volkswagen,Electric Bus,Nickel Manganese Cobalt (NMC),319,97,207,100925,42471,3.8,Germany,49,9
+EV-1152,Tesla,SUV,Solid-State,670,36,153,55197,8744,4.8,South Korea,29,6
+EV-1153,Volkswagen,Electric Bus,Nickel Manganese Cobalt (NMC),612,83,132,17261,15243,3.0,Germany,38,12
+EV-1154,BMW,Electric Bus,Sodium-Ion,189,30,153,108905,32066,4.6,Germany,7,6
+EV-1155,BYD,Sedan,Nickel Manganese Cobalt (NMC),686,73,41,41512,46601,3.2,Japan,28,14
+EV-1156,Ford,SUV,Solid-State,410,74,45,21716,46609,4.6,Germany,46,10
+EV-1157,BYD,Electric Bus,Nickel Manganese Cobalt (NMC),544,76,248,101795,19191,4.2,India,13,12
+EV-1158,Tesla,Hatchback,Sodium-Ion,375,42,175,43933,34496,4.7,Germany,30,10
+EV-1159,Hyundai,Hatchback,Lithium Iron Phosphate (LFP),273,51,314,19378,6090,3.2,India,24,8
+EV-1160,Ford,Truck,Solid-State,187,50,251,55583,6085,4.1,Norway,44,8
+EV-1161,Tesla,SUV,Lithium Iron Phosphate (LFP),477,115,331,100371,9727,4.0,South Korea,14,10
+EV-1162,NIO,SUV,Lithium Iron Phosphate (LFP),400,38,223,44033,28778,4.4,Japan,23,8
+EV-1163,Hyundai,Truck,Lithium Iron Phosphate (LFP),325,55,59,39000,39314,4.1,Germany,7,12
+EV-1164,BYD,Electric Bus,Nickel Cobalt Aluminum (NCA),603,38,281,90868,12737,4.1,India,28,13
+EV-1165,Tesla,SUV,Nickel Cobalt Aluminum (NCA),186,44,209,57604,16149,3.9,India,9,5
+EV-1166,NIO,Hatchback,Lithium Iron Phosphate (LFP),465,39,78,83336,38213,3.6,Norway,7,8
+EV-1167,Ford,Hatchback,Solid-State,263,117,41,110074,8427,4.0,India,31,8
+EV-1168,Ford,Sedan,Sodium-Ion,189,71,294,110655,45909,3.2,China,20,6
+EV-1169,Nissan,SUV,Sodium-Ion,450,101,140,88869,49266,4.9,USA,19,10
+EV-1170,NIO,Electric Bus,Nickel Manganese Cobalt (NMC),373,53,92,20410,46654,4.4,South Korea,39,7
+EV-1171,BMW,Truck,Solid-State,467,109,25,98375,7516,4.9,Norway,16,11
+EV-1172,Volkswagen,Truck,Nickel Cobalt Aluminum (NCA),498,78,242,71044,14527,3.5,Norway,45,9
+EV-1173,Hyundai,Electric Bus,Lithium Iron Phosphate (LFP),264,55,35,78315,49188,4.8,Germany,48,8
+EV-1174,NIO,Two-wheeler,Nickel Manganese Cobalt (NMC),472,66,24,111055,24642,4.6,China,30,9
+EV-1175,Nissan,Sedan,Sodium-Ion,189,97,237,86344,47020,4.4,Germany,38,12
+EV-1176,Volkswagen,Truck,Nickel Cobalt Aluminum (NCA),189,79,250,21796,24045,4.3,Germany,27,7
+EV-1177,Volkswagen,SUV,Nickel Cobalt Aluminum (NCA),438,53,207,101716,32397,3.6,Japan,35,11
+EV-1178,Tesla,Sedan,Lithium Iron Phosphate (LFP),411,48,76,69245,3667,4.6,Japan,24,10
+EV-1179,Volkswagen,SUV,Sodium-Ion,365,89,275,58056,45257,4.0,Japan,16,5
+EV-1180,BMW,Hatchback,Solid-State,296,68,45,32709,27417,3.1,China,27,11
+EV-1181,Ford,Sedan,Nickel Cobalt Aluminum (NCA),485,103,183,73557,23236,3.6,Germany,8,11
+EV-1182,Nissan,Truck,Lithium Iron Phosphate (LFP),317,118,179,32543,28490,4.9,USA,27,5
+EV-1183,Volkswagen,Sedan,Solid-State,241,47,103,52418,14587,4.7,South Korea,5,13
+EV-1184,Tesla,Sedan,Sodium-Ion,502,48,180,109611,22940,5.0,Japan,29,10
+EV-1185,BMW,Sedan,Nickel Cobalt Aluminum (NCA),512,65,209,118291,35705,4.3,Japan,6,6
+EV-1186,BYD,Two-wheeler,Solid-State,494,103,81,118001,15775,3.5,Norway,34,9
+EV-1187,Ford,Sedan,Solid-State,319,84,326,111038,5776,3.3,Germany,7,8
+EV-1188,Ford,SUV,Solid-State,505,98,340,31724,42127,3.4,Germany,25,11
+EV-1189,Nissan,Hatchback,Nickel Cobalt Aluminum (NCA),340,76,232,18828,41086,3.0,China,29,12
+EV-1190,Ford,Electric Bus,Nickel Cobalt Aluminum (NCA),571,78,173,32087,37996,3.8,China,24,5
+EV-1191,Volkswagen,Sedan,Nickel Manganese Cobalt (NMC),156,62,130,27605,19508,3.4,Japan,26,9
+EV-1192,Tesla,Truck,Sodium-Ion,282,50,97,46337,6238,3.8,Germany,25,7
+EV-1193,Ford,Sedan,Lithium Iron Phosphate (LFP),180,110,51,20482,32902,4.9,USA,37,5
+EV-1194,Ford,Truck,Solid-State,684,51,335,80333,6293,3.9,South Korea,42,7
+EV-1195,BYD,SUV,Nickel Manganese Cobalt (NMC),575,77,138,107541,37791,4.8,Germany,19,10
+EV-1196,BYD,Truck,Lithium Iron Phosphate (LFP),543,66,213,103296,6071,4.2,Norway,19,11
+EV-1197,Hyundai,Electric Bus,Nickel Manganese Cobalt (NMC),512,44,40,65952,31831,3.5,Germany,29,12
+EV-1198,BMW,Hatchback,Nickel Cobalt Aluminum (NCA),586,64,194,20463,16709,3.7,India,25,8
+EV-1199,Volkswagen,Truck,Solid-State,231,100,249,85448,48514,3.2,China,28,7
+EV-1200,Ford,Truck,Lithium Iron Phosphate (LFP),505,61,204,19648,25894,3.7,Norway,9,9
+EV-1201,NIO,Hatchback,Lithium Iron Phosphate (LFP),407,40,134,48623,43648,4.4,South Korea,10,13
+EV-1202,Ford,Electric Bus,Lithium Iron Phosphate (LFP),673,39,204,74156,26182,3.1,Japan,47,10
+EV-1203,Tesla,Sedan,Lithium Iron Phosphate (LFP),444,102,167,50634,2724,3.4,Norway,48,13
+EV-1204,Hyundai,Truck,Lithium Iron Phosphate (LFP),373,107,340,59602,41657,3.8,Germany,27,10
+EV-1205,BMW,Hatchback,Nickel Manganese Cobalt (NMC),674,106,137,64334,49195,5.0,Japan,8,6
+EV-1206,NIO,SUV,Solid-State,195,86,134,83648,44952,4.6,Germany,31,9
+EV-1207,Hyundai,Hatchback,Nickel Cobalt Aluminum (NCA),262,54,272,37054,43908,4.5,Japan,22,13
+EV-1208,Nissan,SUV,Nickel Cobalt Aluminum (NCA),382,31,272,85028,32941,3.2,South Korea,25,12
+EV-1209,BMW,Electric Bus,Nickel Cobalt Aluminum (NCA),166,93,324,37207,41930,4.6,China,32,11
+EV-1210,Ford,Sedan,Nickel Cobalt Aluminum (NCA),509,64,334,95650,39629,4.6,South Korea,39,5
+EV-1211,Ford,Hatchback,Nickel Manganese Cobalt (NMC),372,36,139,114821,35216,4.2,India,26,8
+EV-1212,BMW,Two-wheeler,Sodium-Ion,597,114,322,96554,45359,5.0,USA,44,11
+EV-1213,Ford,Truck,Solid-State,514,47,182,36386,27086,3.7,China,27,11
+EV-1214,Volkswagen,Electric Bus,Lithium Iron Phosphate (LFP),475,96,219,98276,45260,4.9,South Korea,7,10
+EV-1215,BMW,Hatchback,Sodium-Ion,616,71,281,74518,23978,4.8,India,44,12
+EV-1216,Hyundai,Truck,Nickel Cobalt Aluminum (NCA),563,68,169,67781,6818,3.0,USA,14,10
+EV-1217,BMW,Hatchback,Sodium-Ion,604,70,261,67780,29194,3.9,India,29,14
+EV-1218,NIO,SUV,Solid-State,382,104,68,76440,20680,5.0,Germany,12,7
+EV-1219,Ford,Hatchback,Lithium Iron Phosphate (LFP),373,53,219,59199,12680,3.2,Germany,15,8
+EV-1220,Volkswagen,Two-wheeler,Lithium Iron Phosphate (LFP),561,89,68,76035,33502,4.1,Japan,9,7
+EV-1221,Volkswagen,Hatchback,Solid-State,484,75,99,23210,15872,5.0,China,49,5
+EV-1222,Nissan,Hatchback,Solid-State,371,48,145,59363,30296,4.1,Germany,41,14
+EV-1223,Hyundai,Two-wheeler,Nickel Cobalt Aluminum (NCA),186,97,96,93279,24927,3.4,Norway,49,9
+EV-1224,BYD,Electric Bus,Lithium Iron Phosphate (LFP),427,119,158,75348,33790,4.2,India,42,5
+EV-1225,BYD,Hatchback,Sodium-Ion,345,71,111,70284,28599,3.4,China,33,5
+EV-1226,BMW,Two-wheeler,Nickel Manganese Cobalt (NMC),633,61,346,87124,45986,4.0,Norway,9,6
+EV-1227,Nissan,Truck,Nickel Manganese Cobalt (NMC),391,68,82,83847,10321,3.1,Germany,13,8
+EV-1228,Tesla,SUV,Solid-State,473,65,159,37432,6332,4.2,Japan,6,10
+EV-1229,BMW,SUV,Nickel Cobalt Aluminum (NCA),341,65,71,79089,13320,4.0,South Korea,5,12
+EV-1230,Nissan,Hatchback,Nickel Manganese Cobalt (NMC),166,32,280,70398,16711,4.5,Japan,44,7
+EV-1231,Hyundai,Electric Bus,Lithium Iron Phosphate (LFP),673,102,128,114291,40390,4.3,Norway,34,5
+EV-1232,Hyundai,Electric Bus,Solid-State,550,37,134,18321,6342,4.1,USA,15,7
+EV-1233,Hyundai,Truck,Sodium-Ion,171,99,275,96348,1816,4.4,Germany,32,7
+EV-1234,Hyundai,Hatchback,Solid-State,623,70,139,52383,46468,3.3,Norway,48,9
+EV-1235,Hyundai,SUV,Sodium-Ion,269,97,219,93682,18008,4.2,USA,16,8
+EV-1236,Nissan,Electric Bus,Solid-State,359,42,72,94190,22505,3.3,USA,43,8
+EV-1237,Nissan,Hatchback,Solid-State,455,78,266,67893,15706,4.9,India,30,13
+EV-1238,Volkswagen,Electric Bus,Solid-State,419,89,56,50820,19471,3.1,China,17,11
+EV-1239,NIO,Two-wheeler,Sodium-Ion,434,31,323,81262,26099,3.9,India,12,8
+EV-1240,BYD,Electric Bus,Sodium-Ion,376,89,90,18760,22556,4.4,Germany,32,7
+EV-1241,Ford,SUV,Solid-State,530,34,341,37190,1878,3.9,USA,34,10
+EV-1242,Hyundai,Sedan,Nickel Manganese Cobalt (NMC),609,73,70,82411,2019,3.2,Norway,13,7
+EV-1243,Tesla,Truck,Nickel Cobalt Aluminum (NCA),156,56,95,38377,22661,4.1,South Korea,43,10
+EV-1244,Ford,Truck,Nickel Cobalt Aluminum (NCA),178,61,213,61737,41203,4.3,USA,35,13
+EV-1245,Nissan,SUV,Nickel Cobalt Aluminum (NCA),182,50,282,84569,39361,4.4,Norway,25,10
+EV-1246,Tesla,Electric Bus,Sodium-Ion,228,37,91,53211,5855,3.7,South Korea,38,8
+EV-1247,Tesla,Hatchback,Sodium-Ion,608,101,111,97909,9583,4.1,India,35,9
+EV-1248,Tesla,Electric Bus,Nickel Manganese Cobalt (NMC),687,79,281,18744,38842,3.9,India,29,10
+EV-1249,Volkswagen,SUV,Nickel Cobalt Aluminum (NCA),631,96,147,39995,20956,4.3,China,16,7
+EV-1250,Nissan,Truck,Nickel Cobalt Aluminum (NCA),579,73,252,31977,13824,4.2,Norway,5,12
+EV-1251,Tesla,Electric Bus,Solid-State,434,87,316,112938,2757,4.1,USA,26,8
+EV-1252,Hyundai,Truck,Sodium-Ion,665,32,150,49542,27864,3.5,Japan,44,12
+EV-1253,BMW,Hatchback,Nickel Cobalt Aluminum (NCA),248,115,301,25651,25472,3.0,India,41,14
+EV-1254,Tesla,Truck,Nickel Manganese Cobalt (NMC),546,99,334,114239,46679,3.3,India,5,14
+EV-1255,Volkswagen,Truck,Nickel Manganese Cobalt (NMC),638,31,121,93931,27154,3.2,China,5,7
+EV-1256,Ford,Sedan,Nickel Cobalt Aluminum (NCA),188,116,347,110344,15733,3.9,South Korea,46,14
+EV-1257,Nissan,Sedan,Sodium-Ion,420,73,318,117112,16387,4.2,China,46,11
+EV-1258,NIO,Two-wheeler,Nickel Manganese Cobalt (NMC),306,31,203,31715,29820,3.4,USA,25,13
+EV-1259,Volkswagen,Sedan,Solid-State,224,110,195,59409,21308,4.9,Norway,19,8
+EV-1260,Tesla,Truck,Nickel Manganese Cobalt (NMC),279,64,337,39306,30654,3.0,Germany,21,12
+EV-1261,Nissan,SUV,Lithium Iron Phosphate (LFP),233,116,209,34086,35273,4.5,Germany,26,7
+EV-1262,BMW,Truck,Lithium Iron Phosphate (LFP),171,59,78,29376,28247,4.3,Norway,42,11
+EV-1263,Tesla,SUV,Sodium-Ion,608,37,52,76350,11360,3.7,South Korea,39,7
+EV-1264,Volkswagen,SUV,Nickel Cobalt Aluminum (NCA),688,51,105,86425,43338,3.1,India,49,11
+EV-1265,BYD,Sedan,Sodium-Ion,531,73,173,118358,42656,4.3,South Korea,20,14
+EV-1266,Hyundai,Electric Bus,Sodium-Ion,589,87,57,51636,18656,3.8,India,12,14
+EV-1267,NIO,Hatchback,Sodium-Ion,170,65,234,101120,20860,4.9,India,21,10
+EV-1268,Ford,Sedan,Sodium-Ion,452,98,127,66649,18635,4.1,Germany,21,6
+EV-1269,Volkswagen,Sedan,Solid-State,233,106,241,49610,25851,4.9,South Korea,30,7
+EV-1270,Nissan,Electric Bus,Solid-State,602,60,184,25058,30999,3.4,China,17,10
+EV-1271,NIO,Hatchback,Nickel Manganese Cobalt (NMC),536,76,241,89637,47877,4.5,India,21,8
+EV-1272,NIO,Truck,Lithium Iron Phosphate (LFP),656,84,291,93033,24054,4.2,Japan,42,10
+EV-1273,NIO,Two-wheeler,Sodium-Ion,406,109,141,85194,49631,4.5,Japan,21,5
+EV-1274,Tesla,Two-wheeler,Nickel Manganese Cobalt (NMC),676,91,203,91917,20104,3.4,China,18,14
+EV-1275,Hyundai,Truck,Lithium Iron Phosphate (LFP),311,59,127,79200,17423,4.3,Japan,49,5
+EV-1276,Tesla,Sedan,Nickel Cobalt Aluminum (NCA),312,84,238,61619,48091,4.0,USA,10,7
+EV-1277,Nissan,Hatchback,Solid-State,673,45,226,32154,9047,4.5,India,39,12
+EV-1278,Tesla,Sedan,Lithium Iron Phosphate (LFP),420,41,91,34539,44783,3.7,China,18,12
+EV-1279,BYD,SUV,Nickel Cobalt Aluminum (NCA),641,46,65,75058,33502,4.8,South Korea,12,8
+EV-1280,Hyundai,Sedan,Lithium Iron Phosphate (LFP),357,45,322,77068,15062,3.2,India,19,10
+EV-1281,Hyundai,Sedan,Solid-State,688,41,249,92313,7980,4.6,China,31,12
+EV-1282,Nissan,Truck,Solid-State,209,37,205,114932,27172,4.7,Germany,17,11
+EV-1283,Ford,Truck,Nickel Manganese Cobalt (NMC),579,113,128,45373,4713,4.6,South Korea,35,11
+EV-1284,BYD,Truck,Sodium-Ion,458,32,105,48154,10793,4.0,Germany,39,8
+EV-1285,Volkswagen,Two-wheeler,Lithium Iron Phosphate (LFP),669,45,271,21031,34941,3.9,India,10,13
+EV-1286,Tesla,SUV,Lithium Iron Phosphate (LFP),176,59,42,108533,2600,5.0,South Korea,9,14
+EV-1287,BMW,Truck,Nickel Cobalt Aluminum (NCA),348,52,217,86975,45117,3.5,Japan,26,10
+EV-1288,Tesla,Hatchback,Solid-State,536,34,199,37785,28672,4.1,China,27,7
+EV-1289,NIO,Two-wheeler,Lithium Iron Phosphate (LFP),498,113,28,93928,20632,4.3,India,29,9
+EV-1290,Tesla,Electric Bus,Solid-State,685,94,91,43669,18699,4.4,USA,38,9
+EV-1291,Volkswagen,Hatchback,Lithium Iron Phosphate (LFP),527,59,148,109475,37109,3.4,South Korea,30,9
+EV-1292,Tesla,Hatchback,Nickel Manganese Cobalt (NMC),676,50,181,17282,43465,4.3,South Korea,9,12
+EV-1293,BYD,Truck,Sodium-Ion,302,113,269,49624,8516,4.6,Norway,30,13
+EV-1294,BYD,Electric Bus,Lithium Iron Phosphate (LFP),355,99,224,63438,40279,3.1,India,24,13
+EV-1295,Hyundai,Electric Bus,Solid-State,604,51,169,104900,37761,4.8,India,10,10
+EV-1296,Nissan,Two-wheeler,Nickel Manganese Cobalt (NMC),422,111,164,82534,32381,3.1,Germany,10,10
+EV-1297,Ford,Electric Bus,Lithium Iron Phosphate (LFP),385,101,220,46705,17558,3.7,Norway,22,13
+EV-1298,BMW,SUV,Nickel Cobalt Aluminum (NCA),670,61,175,53244,24972,3.0,Japan,8,8
+EV-1299,NIO,Truck,Sodium-Ion,650,62,163,89964,41846,3.2,Germany,21,10
+EV-1300,Tesla,Electric Bus,Lithium Iron Phosphate (LFP),266,45,334,52437,35426,4.8,Norway,18,8
+EV-1301,Tesla,Two-wheeler,Nickel Manganese Cobalt (NMC),535,105,186,92872,35332,3.7,Germany,18,5
+EV-1302,Volkswagen,SUV,Nickel Cobalt Aluminum (NCA),493,67,335,89878,36521,3.8,Japan,17,11
+EV-1303,Nissan,Sedan,Nickel Manganese Cobalt (NMC),544,43,42,87982,24587,3.4,Norway,11,14
+EV-1304,BYD,Sedan,Nickel Manganese Cobalt (NMC),213,65,103,65583,13328,4.2,Norway,48,10
+EV-1305,BMW,SUV,Nickel Cobalt Aluminum (NCA),221,52,90,53392,31628,4.2,USA,19,13
+EV-1306,Hyundai,Two-wheeler,Nickel Manganese Cobalt (NMC),423,95,152,22461,1901,3.7,Germany,23,11
+EV-1307,BYD,SUV,Nickel Cobalt Aluminum (NCA),469,114,108,115123,20143,3.7,Germany,47,11
+EV-1308,NIO,Truck,Lithium Iron Phosphate (LFP),487,31,239,25516,15693,4.8,South Korea,48,6
+EV-1309,Nissan,Truck,Nickel Cobalt Aluminum (NCA),515,102,326,94285,27353,3.8,Japan,39,13
+EV-1310,NIO,Sedan,Nickel Cobalt Aluminum (NCA),644,94,182,32514,45364,4.0,China,21,14
+EV-1311,Ford,Electric Bus,Sodium-Ion,315,104,199,115962,20807,3.6,USA,39,13
+EV-1312,Hyundai,Two-wheeler,Nickel Cobalt Aluminum (NCA),693,96,138,51268,37482,4.6,Norway,23,10
+EV-1313,Ford,Sedan,Nickel Cobalt Aluminum (NCA),160,81,217,105486,20111,3.8,Norway,24,7
+EV-1314,Volkswagen,Electric Bus,Lithium Iron Phosphate (LFP),450,91,348,115424,44291,4.0,Norway,40,5
+EV-1315,NIO,Electric Bus,Sodium-Ion,251,52,107,51788,12450,3.5,USA,39,8
+EV-1316,Volkswagen,Truck,Solid-State,574,55,310,90749,11204,5.0,Norway,36,7
+EV-1317,Tesla,Hatchback,Lithium Iron Phosphate (LFP),541,97,102,76049,43611,3.6,Norway,48,5
+EV-1318,Ford,Hatchback,Lithium Iron Phosphate (LFP),363,111,173,77493,12367,4.5,Japan,44,7
+EV-1319,Nissan,SUV,Solid-State,237,84,82,51027,3245,3.9,India,28,8
+EV-1320,NIO,Truck,Nickel Cobalt Aluminum (NCA),550,35,82,108547,4366,3.4,India,21,12
+EV-1321,BMW,Electric Bus,Nickel Manganese Cobalt (NMC),195,64,49,57849,32745,4.6,South Korea,11,13
+EV-1322,Hyundai,Two-wheeler,Sodium-Ion,612,51,64,115127,45224,3.7,South Korea,47,7
+EV-1323,BYD,Hatchback,Nickel Manganese Cobalt (NMC),459,72,190,32858,6318,4.7,Norway,5,10
+EV-1324,Nissan,Electric Bus,Solid-State,235,44,107,99162,49361,4.8,Japan,39,14
+EV-1325,Nissan,Hatchback,Lithium Iron Phosphate (LFP),241,115,198,94003,30616,4.7,Norway,36,9
+EV-1326,Volkswagen,Hatchback,Lithium Iron Phosphate (LFP),391,89,38,67395,15993,3.1,South Korea,40,10
+EV-1327,Ford,Hatchback,Sodium-Ion,151,41,119,54758,28538,4.6,USA,17,8
+EV-1328,NIO,Two-wheeler,Lithium Iron Phosphate (LFP),374,78,219,69312,20947,3.8,USA,10,14
+EV-1329,NIO,Truck,Lithium Iron Phosphate (LFP),265,71,119,83670,30931,4.7,China,18,10
+EV-1330,Tesla,Two-wheeler,Sodium-Ion,252,67,86,97279,18408,4.3,India,41,11
+EV-1331,Tesla,Sedan,Sodium-Ion,343,111,26,30434,29836,4.7,Japan,19,13
+EV-1332,Hyundai,Electric Bus,Solid-State,315,74,23,79047,41492,4.0,Germany,8,14
+EV-1333,Volkswagen,Truck,Lithium Iron Phosphate (LFP),239,64,43,62775,4525,4.1,India,44,11
+EV-1334,Nissan,Truck,Lithium Iron Phosphate (LFP),271,59,133,90769,20593,3.3,Germany,20,10
+EV-1335,NIO,Truck,Solid-State,292,117,78,81677,6655,4.6,China,32,5
+EV-1336,BMW,Truck,Nickel Cobalt Aluminum (NCA),255,59,87,98555,47107,3.8,China,20,6
+EV-1337,Volkswagen,Two-wheeler,Nickel Cobalt Aluminum (NCA),577,107,119,100920,33987,4.0,Norway,8,5
+EV-1338,Hyundai,Truck,Nickel Cobalt Aluminum (NCA),454,35,165,60734,48158,4.6,South Korea,49,13
+EV-1339,Hyundai,SUV,Solid-State,466,96,146,116665,21463,4.2,China,30,14
+EV-1340,Volkswagen,Electric Bus,Lithium Iron Phosphate (LFP),158,109,188,103503,21436,3.4,China,32,14
+EV-1341,Hyundai,Truck,Solid-State,222,36,107,55603,4926,4.2,Germany,36,13
+EV-1342,Volkswagen,Electric Bus,Solid-State,508,81,97,91708,23803,3.8,South Korea,49,11
+EV-1343,BYD,SUV,Nickel Cobalt Aluminum (NCA),372,43,315,96926,45780,3.9,China,6,6
+EV-1344,Volkswagen,SUV,Nickel Manganese Cobalt (NMC),565,102,80,83803,28106,3.1,India,35,10
+EV-1345,Ford,Electric Bus,Lithium Iron Phosphate (LFP),519,44,159,54332,48332,3.4,China,7,8
+EV-1346,Volkswagen,Hatchback,Nickel Cobalt Aluminum (NCA),413,50,120,106703,28651,3.6,South Korea,12,5
+EV-1347,Hyundai,Sedan,Nickel Manganese Cobalt (NMC),467,64,213,36312,14267,4.4,Norway,28,5
+EV-1348,NIO,Hatchback,Nickel Manganese Cobalt (NMC),233,95,264,108376,11808,3.0,Japan,19,9
+EV-1349,Ford,Hatchback,Sodium-Ion,467,31,340,99526,44745,3.8,South Korea,47,6
+EV-1350,Hyundai,Two-wheeler,Lithium Iron Phosphate (LFP),260,64,70,59179,46171,4.8,Germany,35,8
+EV-1351,Tesla,Hatchback,Nickel Manganese Cobalt (NMC),400,111,53,86442,25270,3.2,Japan,13,5
+EV-1352,Tesla,Truck,Nickel Cobalt Aluminum (NCA),532,107,298,55379,29072,4.0,India,43,8
+EV-1353,NIO,Two-wheeler,Sodium-Ion,156,49,41,32297,41948,4.6,USA,49,10
+EV-1354,NIO,Two-wheeler,Lithium Iron Phosphate (LFP),608,111,175,17011,2704,4.9,South Korea,6,14
+EV-1355,Ford,SUV,Solid-State,233,39,89,59014,27733,4.5,Norway,12,8
+EV-1356,BYD,Hatchback,Nickel Cobalt Aluminum (NCA),357,54,235,26738,22229,4.4,Germany,11,5
+EV-1357,NIO,SUV,Nickel Manganese Cobalt (NMC),539,95,164,109333,31631,4.7,India,48,11
+EV-1358,Tesla,Electric Bus,Nickel Manganese Cobalt (NMC),463,54,253,62498,34370,3.9,Japan,43,6
+EV-1359,Volkswagen,Sedan,Nickel Cobalt Aluminum (NCA),171,83,234,26120,38511,4.6,India,46,13
+EV-1360,Hyundai,Two-wheeler,Nickel Manganese Cobalt (NMC),559,62,100,23767,39882,3.0,South Korea,20,7
+EV-1361,Tesla,Electric Bus,Sodium-Ion,664,65,235,37852,49567,4.8,China,39,12
+EV-1362,Tesla,Electric Bus,Lithium Iron Phosphate (LFP),276,43,137,94239,41975,3.9,Norway,34,12
+EV-1363,BYD,Truck,Sodium-Ion,163,94,113,15929,47181,4.1,South Korea,14,7
+EV-1364,Ford,Sedan,Nickel Manganese Cobalt (NMC),161,109,291,92487,22107,3.5,USA,42,8
+EV-1365,Ford,Electric Bus,Solid-State,236,83,189,106575,25468,4.5,South Korea,22,6
+EV-1366,Nissan,Electric Bus,Lithium Iron Phosphate (LFP),673,81,79,110040,33898,3.2,Japan,9,8
+EV-1367,BYD,Sedan,Lithium Iron Phosphate (LFP),686,32,305,32438,12408,4.7,Japan,33,13
+EV-1368,Volkswagen,Sedan,Nickel Cobalt Aluminum (NCA),450,70,47,63515,26923,4.7,South Korea,43,6
+EV-1369,Ford,Electric Bus,Nickel Cobalt Aluminum (NCA),392,35,87,20744,44115,3.4,Japan,38,7
+EV-1370,Hyundai,Sedan,Solid-State,271,54,269,98820,9671,4.6,China,47,8
+EV-1371,NIO,Electric Bus,Lithium Iron Phosphate (LFP),296,42,275,57417,13221,4.6,India,49,9
+EV-1372,BYD,Electric Bus,Solid-State,505,37,65,22069,49929,4.3,South Korea,27,5
+EV-1373,NIO,Truck,Nickel Cobalt Aluminum (NCA),458,50,118,57359,17116,3.7,Norway,9,11
+EV-1374,Tesla,Hatchback,Nickel Cobalt Aluminum (NCA),437,97,63,34799,43012,3.5,China,34,14
+EV-1375,Hyundai,Electric Bus,Lithium Iron Phosphate (LFP),456,54,248,113746,38958,3.5,India,10,11
+EV-1376,Hyundai,SUV,Sodium-Ion,698,108,283,108762,46669,3.6,Norway,48,13
+EV-1377,Tesla,Two-wheeler,Nickel Manganese Cobalt (NMC),501,97,188,85188,8159,4.8,Norway,8,8
+EV-1378,BYD,Hatchback,Nickel Cobalt Aluminum (NCA),461,74,300,104859,43869,3.2,Norway,33,10
+EV-1379,Tesla,Hatchback,Nickel Cobalt Aluminum (NCA),208,89,110,22597,12204,4.7,India,27,6
+EV-1380,NIO,Hatchback,Sodium-Ion,184,41,199,62093,33293,3.7,China,10,8
+EV-1381,Nissan,Truck,Sodium-Ion,594,61,218,52226,48652,4.0,Norway,36,6
+EV-1382,Hyundai,Electric Bus,Solid-State,242,42,328,87127,46973,4.6,Norway,46,14
+EV-1383,BMW,Truck,Solid-State,356,60,288,106369,31726,4.8,Germany,22,9
+EV-1384,BMW,Electric Bus,Nickel Manganese Cobalt (NMC),502,107,289,92362,24352,3.7,South Korea,19,11
+EV-1385,NIO,Truck,Nickel Manganese Cobalt (NMC),481,49,95,41417,32582,3.9,India,44,5
+EV-1386,Volkswagen,Truck,Lithium Iron Phosphate (LFP),308,47,29,33693,23294,3.8,India,36,14
+EV-1387,Ford,Two-wheeler,Solid-State,173,89,318,94674,41920,3.0,Japan,13,14
+EV-1388,Tesla,SUV,Nickel Cobalt Aluminum (NCA),553,92,185,68161,13879,3.6,India,41,11
+EV-1389,Tesla,Truck,Solid-State,665,35,106,17169,7506,3.9,China,14,14
+EV-1390,Volkswagen,Two-wheeler,Nickel Cobalt Aluminum (NCA),513,61,93,99092,9182,3.8,India,24,10
+EV-1391,Volkswagen,Sedan,Sodium-Ion,531,72,76,37052,34340,4.4,Germany,10,10
+EV-1392,NIO,SUV,Solid-State,681,31,68,86849,32930,3.8,South Korea,7,12
+EV-1393,NIO,Truck,Sodium-Ion,301,89,259,88851,23591,4.0,South Korea,46,12
+EV-1394,Volkswagen,Hatchback,Nickel Manganese Cobalt (NMC),569,52,125,23036,33483,3.9,India,15,10
+EV-1395,Hyundai,Sedan,Nickel Manganese Cobalt (NMC),399,112,231,46778,24489,4.5,Norway,47,7
+EV-1396,NIO,Sedan,Lithium Iron Phosphate (LFP),266,60,63,42734,10415,4.7,USA,21,9
+EV-1397,Nissan,Two-wheeler,Solid-State,661,34,337,38173,43052,4.1,USA,36,6
+EV-1398,NIO,Sedan,Sodium-Ion,484,112,289,45403,19490,4.6,Norway,8,9
+EV-1399,Tesla,SUV,Nickel Cobalt Aluminum (NCA),567,63,284,81321,25234,3.6,Norway,8,13
+EV-1400,NIO,Truck,Nickel Manganese Cobalt (NMC),444,39,280,86675,15324,4.1,Norway,21,14
+EV-1401,Hyundai,Truck,Nickel Manganese Cobalt (NMC),520,118,304,21344,36581,3.7,China,45,5
+EV-1402,Volkswagen,Hatchback,Nickel Cobalt Aluminum (NCA),335,31,135,33800,11533,3.8,USA,23,14
+EV-1403,Tesla,Two-wheeler,Sodium-Ion,395,40,61,40372,43236,4.5,Norway,9,9
+EV-1404,NIO,Hatchback,Sodium-Ion,417,79,241,76516,16741,4.8,China,36,10
+EV-1405,Hyundai,Sedan,Solid-State,386,60,150,35538,6439,3.2,Japan,26,11
+EV-1406,Nissan,Hatchback,Solid-State,679,85,29,78918,47964,4.3,China,10,13
+EV-1407,NIO,SUV,Lithium Iron Phosphate (LFP),170,108,122,29973,48062,4.2,USA,39,10
+EV-1408,Hyundai,Truck,Nickel Manganese Cobalt (NMC),669,102,197,86155,35563,3.2,India,26,9
+EV-1409,Nissan,Sedan,Solid-State,249,116,128,115240,34964,3.4,Japan,5,11
+EV-1410,Volkswagen,Hatchback,Sodium-Ion,627,112,122,74500,11685,3.6,USA,24,5
+EV-1411,NIO,Two-wheeler,Nickel Cobalt Aluminum (NCA),447,38,281,51575,27545,3.3,China,26,9
+EV-1412,Nissan,SUV,Sodium-Ion,675,50,267,57261,45269,3.5,Germany,15,6
+EV-1413,Tesla,SUV,Nickel Manganese Cobalt (NMC),483,102,296,42716,47618,3.5,South Korea,17,8
+EV-1414,Volkswagen,Hatchback,Sodium-Ion,151,57,53,18236,19667,3.7,USA,46,11
+EV-1415,Tesla,Truck,Lithium Iron Phosphate (LFP),524,91,158,30848,36912,4.5,Norway,7,9
+EV-1416,BMW,Hatchback,Nickel Manganese Cobalt (NMC),442,36,33,17352,22125,4.1,China,13,10
+EV-1417,BYD,Sedan,Nickel Cobalt Aluminum (NCA),467,109,323,16932,39688,5.0,Norway,16,6
+EV-1418,NIO,Hatchback,Lithium Iron Phosphate (LFP),651,45,37,91449,27576,3.8,Norway,27,7
+EV-1419,Nissan,SUV,Nickel Manganese Cobalt (NMC),530,33,150,23556,45105,4.5,Norway,18,11
+EV-1420,BYD,Hatchback,Nickel Cobalt Aluminum (NCA),163,33,84,101836,19529,4.7,Norway,37,6
+EV-1421,BYD,Truck,Lithium Iron Phosphate (LFP),653,69,130,20498,23473,4.4,Norway,22,10
+EV-1422,Nissan,Two-wheeler,Lithium Iron Phosphate (LFP),380,46,42,91118,39621,3.8,Japan,45,9
+EV-1423,Volkswagen,Electric Bus,Nickel Manganese Cobalt (NMC),233,81,179,65098,31933,4.5,USA,13,14
+EV-1424,NIO,Hatchback,Solid-State,279,81,290,79386,43809,3.4,USA,27,5
+EV-1425,BMW,Truck,Lithium Iron Phosphate (LFP),294,65,183,24569,2432,3.7,South Korea,14,14
+EV-1426,Tesla,Truck,Lithium Iron Phosphate (LFP),177,67,281,71882,44754,4.1,China,23,8
+EV-1427,Hyundai,Two-wheeler,Nickel Cobalt Aluminum (NCA),215,79,123,85393,2257,4.2,Germany,9,6
+EV-1428,Tesla,SUV,Sodium-Ion,312,92,244,15340,31222,3.0,Japan,27,8
+EV-1429,Hyundai,Truck,Nickel Manganese Cobalt (NMC),378,92,80,58949,38353,4.9,China,34,5
+EV-1430,Tesla,Truck,Nickel Manganese Cobalt (NMC),410,91,268,97302,38905,4.4,Japan,29,6
+EV-1431,Nissan,Truck,Solid-State,598,36,149,77443,1616,4.0,USA,32,12
+EV-1432,BMW,Truck,Solid-State,573,56,304,106668,44027,4.9,Norway,38,10
+EV-1433,NIO,Sedan,Nickel Manganese Cobalt (NMC),609,115,346,89027,12191,3.9,South Korea,49,6
+EV-1434,Hyundai,Sedan,Solid-State,450,43,46,15138,992,5.0,South Korea,29,10
+EV-1435,NIO,SUV,Nickel Cobalt Aluminum (NCA),452,100,152,15358,28382,4.0,India,14,14
+EV-1436,NIO,Hatchback,Nickel Manganese Cobalt (NMC),436,115,217,90250,9311,3.2,Germany,18,13
+EV-1437,NIO,Truck,Solid-State,544,34,302,100376,28308,4.5,South Korea,46,11
+EV-1438,Ford,Two-wheeler,Nickel Manganese Cobalt (NMC),159,84,175,114931,24772,4.4,Norway,34,13
+EV-1439,Volkswagen,Hatchback,Sodium-Ion,419,31,154,45654,28899,4.5,USA,45,9
+EV-1440,Tesla,Two-wheeler,Lithium Iron Phosphate (LFP),510,91,248,40879,6974,4.9,Germany,29,11
+EV-1441,NIO,Hatchback,Nickel Manganese Cobalt (NMC),406,50,210,96532,27456,4.6,China,18,11
+EV-1442,Tesla,SUV,Lithium Iron Phosphate (LFP),282,108,286,70778,47653,4.2,Norway,39,7
+EV-1443,NIO,Truck,Solid-State,425,50,155,52772,43006,4.7,Norway,38,11
+EV-1444,Hyundai,Truck,Lithium Iron Phosphate (LFP),662,39,232,73478,14479,4.3,South Korea,14,5
+EV-1445,Volkswagen,Electric Bus,Nickel Manganese Cobalt (NMC),462,116,81,79353,45023,3.8,Germany,39,13
+EV-1446,Volkswagen,Two-wheeler,Sodium-Ion,433,87,234,41762,43065,4.8,USA,15,14
+EV-1447,Nissan,Hatchback,Solid-State,270,68,237,28283,28828,3.4,India,15,10
+EV-1448,Ford,Hatchback,Nickel Manganese Cobalt (NMC),256,34,247,78922,47875,4.4,Japan,25,9
+EV-1449,Nissan,Sedan,Solid-State,353,94,152,54420,13367,4.8,Japan,25,11
+EV-1450,Nissan,Electric Bus,Nickel Cobalt Aluminum (NCA),314,42,97,70568,26351,4.5,USA,26,9
+EV-1451,Nissan,Sedan,Lithium Iron Phosphate (LFP),454,114,307,100090,31779,4.4,USA,49,14
+EV-1452,Nissan,Sedan,Nickel Cobalt Aluminum (NCA),646,119,298,35219,31027,4.5,Japan,11,9
+EV-1453,Nissan,Sedan,Nickel Manganese Cobalt (NMC),305,114,177,72169,8366,3.9,India,21,14
+EV-1454,BMW,Two-wheeler,Sodium-Ion,516,82,269,115455,15949,4.7,Germany,6,11
+EV-1455,Volkswagen,Two-wheeler,Solid-State,400,111,239,89965,11185,3.4,Japan,16,14
+EV-1456,Nissan,SUV,Lithium Iron Phosphate (LFP),483,74,211,61840,24044,3.3,USA,46,11
+EV-1457,NIO,SUV,Solid-State,660,61,184,59695,5951,3.6,South Korea,22,7
+EV-1458,Volkswagen,Sedan,Nickel Manganese Cobalt (NMC),442,65,201,99754,22142,4.1,China,15,7
+EV-1459,Volkswagen,Electric Bus,Solid-State,169,110,55,92988,41816,4.0,India,20,14
+EV-1460,BYD,Hatchback,Lithium Iron Phosphate (LFP),431,89,62,73342,40454,4.6,Norway,22,7
+EV-1461,BMW,Two-wheeler,Nickel Manganese Cobalt (NMC),150,40,328,33951,39370,3.8,India,39,10
+EV-1462,Nissan,Electric Bus,Solid-State,268,92,335,16307,31530,4.0,South Korea,30,10
+EV-1463,Tesla,Truck,Sodium-Ion,184,50,96,95388,31373,3.0,South Korea,20,7
+EV-1464,Hyundai,Two-wheeler,Nickel Manganese Cobalt (NMC),347,81,300,105768,1119,3.8,Norway,10,7
+EV-1465,Ford,Two-wheeler,Nickel Manganese Cobalt (NMC),634,84,197,50428,34150,4.3,USA,48,12
+EV-1466,NIO,SUV,Sodium-Ion,208,55,171,107021,25872,3.0,Japan,47,12
+EV-1467,Tesla,Hatchback,Nickel Cobalt Aluminum (NCA),310,97,294,90774,4142,3.6,Germany,46,11
+EV-1468,BMW,Hatchback,Lithium Iron Phosphate (LFP),355,63,346,53975,28501,3.4,India,16,14
+EV-1469,Hyundai,Truck,Nickel Cobalt Aluminum (NCA),161,81,129,16140,34564,3.1,Norway,17,8
+EV-1470,BMW,Truck,Solid-State,639,111,160,39842,29790,4.0,India,8,8
+EV-1471,NIO,Two-wheeler,Sodium-Ion,425,81,292,41421,14622,3.4,South Korea,43,7
+EV-1472,Volkswagen,Sedan,Nickel Cobalt Aluminum (NCA),391,58,310,16708,25320,4.5,Japan,6,9
+EV-1473,Hyundai,SUV,Nickel Manganese Cobalt (NMC),365,67,233,18630,3395,4.7,India,30,7
+EV-1474,Volkswagen,SUV,Solid-State,400,71,293,34595,5866,4.1,Germany,31,12
+EV-1475,NIO,Two-wheeler,Solid-State,275,50,87,91021,9211,5.0,South Korea,31,11
+EV-1476,Tesla,Electric Bus,Nickel Cobalt Aluminum (NCA),366,71,269,43308,20096,3.9,Germany,19,7
+EV-1477,NIO,Sedan,Nickel Cobalt Aluminum (NCA),455,42,177,59789,19293,4.0,Japan,12,13
+EV-1478,Tesla,Two-wheeler,Sodium-Ion,334,93,68,70690,8699,5.0,India,11,9
+EV-1479,Hyundai,Sedan,Lithium Iron Phosphate (LFP),188,46,222,41086,11217,3.5,China,44,13
+EV-1480,Hyundai,Sedan,Nickel Cobalt Aluminum (NCA),372,38,169,31859,36691,4.9,India,16,11
+EV-1481,Nissan,Sedan,Nickel Cobalt Aluminum (NCA),333,70,145,22684,10711,3.1,Japan,17,11
+EV-1482,BMW,Two-wheeler,Nickel Manganese Cobalt (NMC),644,30,22,106088,46050,3.9,India,47,10
+EV-1483,Nissan,SUV,Solid-State,576,31,268,16207,23860,3.1,Norway,21,6
+EV-1484,BMW,SUV,Lithium Iron Phosphate (LFP),327,89,149,61099,22042,4.5,India,21,13
+EV-1485,Nissan,Sedan,Nickel Manganese Cobalt (NMC),577,77,212,82496,31812,4.2,USA,40,10
+EV-1486,Volkswagen,Electric Bus,Sodium-Ion,443,58,88,81093,45742,4.4,India,25,12
+EV-1487,Hyundai,Hatchback,Sodium-Ion,300,39,25,44689,36935,3.7,India,12,5
+EV-1488,Tesla,Two-wheeler,Nickel Cobalt Aluminum (NCA),533,87,324,63651,28747,3.7,Germany,9,9
+EV-1489,BMW,Hatchback,Nickel Cobalt Aluminum (NCA),457,89,315,28893,22857,3.1,China,30,5
+EV-1490,NIO,Electric Bus,Sodium-Ion,485,50,164,112808,41545,3.7,Germany,20,14
+EV-1491,BMW,Two-wheeler,Nickel Cobalt Aluminum (NCA),524,57,212,81418,28191,4.9,Germany,40,12
+EV-1492,Tesla,Sedan,Lithium Iron Phosphate (LFP),157,104,42,118065,12924,3.8,South Korea,32,12
+EV-1493,Nissan,SUV,Nickel Cobalt Aluminum (NCA),490,63,248,75011,19352,4.7,USA,33,5
+EV-1494,BMW,Hatchback,Solid-State,278,37,334,53635,23101,4.7,Germany,16,13
+EV-1495,Ford,Truck,Nickel Cobalt Aluminum (NCA),501,88,138,71115,18520,3.7,Norway,41,6
+EV-1496,Volkswagen,Truck,Nickel Manganese Cobalt (NMC),507,115,323,110071,8655,4.3,Japan,34,13
+EV-1497,Hyundai,Electric Bus,Lithium Iron Phosphate (LFP),666,101,163,93405,4083,3.2,Norway,27,5
+EV-1498,Tesla,Sedan,Nickel Manganese Cobalt (NMC),644,78,60,87702,16015,3.2,Japan,20,14
+EV-1499,Hyundai,Hatchback,Nickel Manganese Cobalt (NMC),235,108,273,93518,37277,3.1,India,18,13
